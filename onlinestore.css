@@ -1,0 +1,55 @@
+body{
+  color:yellow;
+  font-family: Helvetica;
+  background-color: green;
+  text
+}
+h1{
+  text-align: center;
+  color: black;
+}
+
+.product{
+  display:inline-block;
+  margin:5px;
+}
+
+#jersey{
+  position:right;
+  width:50px;
+  length:50px;
+}
+#shinguard{
+  position:right;
+  width:50px;
+  length:50px;
+}
+
+#itemCounter{
+  position:absolute;
+  right:56px;
+  top:auto;
+}
+
+#orderTotal{
+  margin-right: 16px;
+  text-align:right;
+}
+
+#shippingTotal{
+  margin-right: 16px;
+  text-align: center;
+}
+
+.item{
+  margin: 5px;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin:30px 5px 5px 5px;
+  border:solid 2px;
+  color: blue;
+}

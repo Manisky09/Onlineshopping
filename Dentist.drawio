@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
+  <diagram name="Page-1" id="rge_93imRxtE69LCitzI">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="660" width="640" x="174" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-12" edge="1" parent="1" source="E_NpeIRtLO9ymFbD7Fau-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="E_NpeIRtLO9ymFbD7Fau-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-16" edge="1" parent="1" source="E_NpeIRtLO9ymFbD7Fau-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E_NpeIRtLO9ymFbD7Fau-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="patient" vertex="1">
+          <mxGeometry height="55" width="30" x="70" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-14" edge="1" parent="1" source="E_NpeIRtLO9ymFbD7Fau-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="E_NpeIRtLO9ymFbD7Fau-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-23" edge="1" parent="1" source="E_NpeIRtLO9ymFbD7Fau-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="E_NpeIRtLO9ymFbD7Fau-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Nurse" vertex="1">
+          <mxGeometry height="60" width="30" x="880" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="open patient &lt;br&gt;information" vertex="1">
+          <mxGeometry height="60" width="140" x="424" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Appointment &lt;br&gt;booking" vertex="1">
+          <mxGeometry height="50" width="120" x="434" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fill Application &lt;br&gt;Details" vertex="1">
+          <mxGeometry height="45" width="120" x="304" y="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-17" edge="1" parent="1" source="E_NpeIRtLO9ymFbD7Fau-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="E_NpeIRtLO9ymFbD7Fau-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Scheduling&amp;nbsp;&lt;br&gt;appointments" vertex="1">
+          <mxGeometry height="45" width="120" x="610" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-18" edge="1" parent="1" source="E_NpeIRtLO9ymFbD7Fau-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" target="E_NpeIRtLO9ymFbD7Fau-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-22" edge="1" parent="1" source="E_NpeIRtLO9ymFbD7Fau-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="E_NpeIRtLO9ymFbD7Fau-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stores Information&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="120" x="580" y="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Sending &lt;br&gt;Reminder postcard" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-25" edge="1" parent="1" source="E_NpeIRtLO9ymFbD7Fau-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.848;entryY=0.47;entryDx=0;entryDy=0;entryPerimeter=0;" target="E_NpeIRtLO9ymFbD7Fau-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_NpeIRtLO9ymFbD7Fau-26" edge="1" parent="1" source="E_NpeIRtLO9ymFbD7Fau-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="E_NpeIRtLO9ymFbD7Fau-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
